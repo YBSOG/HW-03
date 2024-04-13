@@ -1,0 +1,28 @@
+body {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  background: url(https://images.unsplash.com/photo-1585691476822-ee1e2f190c40?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+#trafficLightGreen {
+    margin-top: 150px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  #trafficLightYellow {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  #trafficLightRed {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }
